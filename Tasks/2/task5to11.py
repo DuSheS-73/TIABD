@@ -1,6 +1,3 @@
-# Пятая программа второй практической работы
-# В данной программе проверяется возможность загрузки
-# данных по домам в Калифорнии с помощью пакета sklearn
 import pandas as pd
 import numpy as np
 from sklearn.datasets import fetch_california_housing
